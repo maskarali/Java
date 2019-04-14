@@ -6,3 +6,5 @@ Third from Git
 Four from NewBranch
 Five from NewwBranch
 
+Six from Local
+
